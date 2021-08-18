@@ -1,0 +1,3278 @@
+[
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0014",
+        "Municipality_name": "Groningen",
+        "Province": "Groningen",
+        "Total_reported": 19806,
+        "Hospital_admission": 100,
+        "Deceased": 45
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0034",
+        "Municipality_name": "Almere",
+        "Province": "Flevoland",
+        "Total_reported": 22345,
+        "Hospital_admission": 357,
+        "Deceased": 97
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0037",
+        "Municipality_name": "Stadskanaal",
+        "Province": "Groningen",
+        "Total_reported": 2671,
+        "Hospital_admission": 24,
+        "Deceased": 21
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0047",
+        "Municipality_name": "Veendam",
+        "Province": "Groningen",
+        "Total_reported": 2113,
+        "Hospital_admission": 12,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0050",
+        "Municipality_name": "Zeewolde",
+        "Province": "Flevoland",
+        "Total_reported": 1980,
+        "Hospital_admission": 22,
+        "Deceased": 14
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0059",
+        "Municipality_name": "Achtkarspelen",
+        "Province": "Fryslân",
+        "Total_reported": 2500,
+        "Hospital_admission": 28,
+        "Deceased": 39
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0060",
+        "Municipality_name": "Ameland",
+        "Province": "Fryslân",
+        "Total_reported": 276,
+        "Hospital_admission": 3,
+        "Deceased": 1
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0072",
+        "Municipality_name": "Harlingen",
+        "Province": "Fryslân",
+        "Total_reported": 942,
+        "Hospital_admission": 13,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0074",
+        "Municipality_name": "Heerenveen",
+        "Province": "Fryslân",
+        "Total_reported": 3309,
+        "Hospital_admission": 39,
+        "Deceased": 40
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0080",
+        "Municipality_name": "Leeuwarden",
+        "Province": "Fryslân",
+        "Total_reported": 8473,
+        "Hospital_admission": 105,
+        "Deceased": 74
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0085",
+        "Municipality_name": "Ooststellingwerf",
+        "Province": "Fryslân",
+        "Total_reported": 1653,
+        "Hospital_admission": 18,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0086",
+        "Municipality_name": "Opsterland",
+        "Province": "Fryslân",
+        "Total_reported": 2037,
+        "Hospital_admission": 29,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0088",
+        "Municipality_name": "Schiermonnikoog",
+        "Province": "Fryslân",
+        "Total_reported": 48,
+        "Hospital_admission": 1,
+        "Deceased": 2
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0090",
+        "Municipality_name": "Smallingerland",
+        "Province": "Fryslân",
+        "Total_reported": 3966,
+        "Hospital_admission": 45,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0093",
+        "Municipality_name": "Terschelling",
+        "Province": "Fryslân",
+        "Total_reported": 291,
+        "Hospital_admission": 3,
+        "Deceased": 2
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0096",
+        "Municipality_name": "Vlieland",
+        "Province": "Fryslân",
+        "Total_reported": 80,
+        "Hospital_admission": 0,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0098",
+        "Municipality_name": "Weststellingwerf",
+        "Province": "Fryslân",
+        "Total_reported": 1967,
+        "Hospital_admission": 20,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0106",
+        "Municipality_name": "Assen",
+        "Province": "Drenthe",
+        "Total_reported": 4331,
+        "Hospital_admission": 69,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0109",
+        "Municipality_name": "Coevorden",
+        "Province": "Drenthe",
+        "Total_reported": 3078,
+        "Hospital_admission": 57,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0114",
+        "Municipality_name": "Emmen",
+        "Province": "Drenthe",
+        "Total_reported": 9568,
+        "Hospital_admission": 169,
+        "Deceased": 79
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0118",
+        "Municipality_name": "Hoogeveen",
+        "Province": "Drenthe",
+        "Total_reported": 5045,
+        "Hospital_admission": 77,
+        "Deceased": 41
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0119",
+        "Municipality_name": "Meppel",
+        "Province": "Drenthe",
+        "Total_reported": 2545,
+        "Hospital_admission": 34,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0141",
+        "Municipality_name": "Almelo",
+        "Province": "Overijssel",
+        "Total_reported": 8385,
+        "Hospital_admission": 109,
+        "Deceased": 59
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0147",
+        "Municipality_name": "Borne",
+        "Province": "Overijssel",
+        "Total_reported": 2774,
+        "Hospital_admission": 31,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0148",
+        "Municipality_name": "Dalfsen",
+        "Province": "Overijssel",
+        "Total_reported": 2558,
+        "Hospital_admission": 26,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0150",
+        "Municipality_name": "Deventer",
+        "Province": "Overijssel",
+        "Total_reported": 9645,
+        "Hospital_admission": 110,
+        "Deceased": 88
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0153",
+        "Municipality_name": "Enschede",
+        "Province": "Overijssel",
+        "Total_reported": 16381,
+        "Hospital_admission": 251,
+        "Deceased": 175
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0158",
+        "Municipality_name": "Haaksbergen",
+        "Province": "Overijssel",
+        "Total_reported": 2863,
+        "Hospital_admission": 34,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0160",
+        "Municipality_name": "Hardenberg",
+        "Province": "Overijssel",
+        "Total_reported": 6183,
+        "Hospital_admission": 61,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0163",
+        "Municipality_name": "Hellendoorn",
+        "Province": "Overijssel",
+        "Total_reported": 4695,
+        "Hospital_admission": 44,
+        "Deceased": 51
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0164",
+        "Municipality_name": "Hengelo (O.)",
+        "Province": "Overijssel",
+        "Total_reported": 8207,
+        "Hospital_admission": 83,
+        "Deceased": 68
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0166",
+        "Municipality_name": "Kampen",
+        "Province": "Overijssel",
+        "Total_reported": 4122,
+        "Hospital_admission": 81,
+        "Deceased": 44
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0168",
+        "Municipality_name": "Losser",
+        "Province": "Overijssel",
+        "Total_reported": 2986,
+        "Hospital_admission": 50,
+        "Deceased": 36
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0171",
+        "Municipality_name": "Noordoostpolder",
+        "Province": "Flevoland",
+        "Total_reported": 3808,
+        "Hospital_admission": 39,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0173",
+        "Municipality_name": "Oldenzaal",
+        "Province": "Overijssel",
+        "Total_reported": 3801,
+        "Hospital_admission": 56,
+        "Deceased": 45
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0175",
+        "Municipality_name": "Ommen",
+        "Province": "Overijssel",
+        "Total_reported": 1595,
+        "Hospital_admission": 15,
+        "Deceased": 16
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0177",
+        "Municipality_name": "Raalte",
+        "Province": "Overijssel",
+        "Total_reported": 3901,
+        "Hospital_admission": 43,
+        "Deceased": 41
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0180",
+        "Municipality_name": "Staphorst",
+        "Province": "Overijssel",
+        "Total_reported": 2454,
+        "Hospital_admission": 18,
+        "Deceased": 21
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0183",
+        "Municipality_name": "Tubbergen",
+        "Province": "Overijssel",
+        "Total_reported": 3469,
+        "Hospital_admission": 26,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0184",
+        "Municipality_name": "Urk",
+        "Province": "Flevoland",
+        "Total_reported": 2653,
+        "Hospital_admission": 55,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0189",
+        "Municipality_name": "Wierden",
+        "Province": "Overijssel",
+        "Total_reported": 3383,
+        "Hospital_admission": 21,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0193",
+        "Municipality_name": "Zwolle",
+        "Province": "Overijssel",
+        "Total_reported": 9446,
+        "Hospital_admission": 109,
+        "Deceased": 114
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0197",
+        "Municipality_name": "Aalten",
+        "Province": "Gelderland",
+        "Total_reported": 2657,
+        "Hospital_admission": 32,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0200",
+        "Municipality_name": "Apeldoorn",
+        "Province": "Gelderland",
+        "Total_reported": 14555,
+        "Hospital_admission": 210,
+        "Deceased": 148
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0202",
+        "Municipality_name": "Arnhem",
+        "Province": "Gelderland",
+        "Total_reported": 14968,
+        "Hospital_admission": 211,
+        "Deceased": 126
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0203",
+        "Municipality_name": "Barneveld",
+        "Province": "Gelderland",
+        "Total_reported": 8298,
+        "Hospital_admission": 65,
+        "Deceased": 64
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0209",
+        "Municipality_name": "Beuningen",
+        "Province": "Gelderland",
+        "Total_reported": 2711,
+        "Hospital_admission": 41,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0213",
+        "Municipality_name": "Brummen",
+        "Province": "Gelderland",
+        "Total_reported": 1740,
+        "Hospital_admission": 33,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0214",
+        "Municipality_name": "Buren",
+        "Province": "Gelderland",
+        "Total_reported": 2746,
+        "Hospital_admission": 40,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0216",
+        "Municipality_name": "Culemborg",
+        "Province": "Gelderland",
+        "Total_reported": 3062,
+        "Hospital_admission": 48,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0221",
+        "Municipality_name": "Doesburg",
+        "Province": "Gelderland",
+        "Total_reported": 865,
+        "Hospital_admission": 19,
+        "Deceased": 9
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0222",
+        "Municipality_name": "Doetinchem",
+        "Province": "Gelderland",
+        "Total_reported": 5466,
+        "Hospital_admission": 65,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0225",
+        "Municipality_name": "Druten",
+        "Province": "Gelderland",
+        "Total_reported": 2116,
+        "Hospital_admission": 41,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0226",
+        "Municipality_name": "Duiven",
+        "Province": "Gelderland",
+        "Total_reported": 2328,
+        "Hospital_admission": 29,
+        "Deceased": 14
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0228",
+        "Municipality_name": "Ede",
+        "Province": "Gelderland",
+        "Total_reported": 13043,
+        "Hospital_admission": 146,
+        "Deceased": 88
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0230",
+        "Municipality_name": "Elburg",
+        "Province": "Gelderland",
+        "Total_reported": 2258,
+        "Hospital_admission": 39,
+        "Deceased": 14
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0232",
+        "Municipality_name": "Epe",
+        "Province": "Gelderland",
+        "Total_reported": 2985,
+        "Hospital_admission": 78,
+        "Deceased": 52
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0233",
+        "Municipality_name": "Ermelo",
+        "Province": "Gelderland",
+        "Total_reported": 2636,
+        "Hospital_admission": 49,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0243",
+        "Municipality_name": "Harderwijk",
+        "Province": "Gelderland",
+        "Total_reported": 4763,
+        "Hospital_admission": 87,
+        "Deceased": 48
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0244",
+        "Municipality_name": "Hattem",
+        "Province": "Gelderland",
+        "Total_reported": 1007,
+        "Hospital_admission": 21,
+        "Deceased": 7
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0246",
+        "Municipality_name": "Heerde",
+        "Province": "Gelderland",
+        "Total_reported": 1352,
+        "Hospital_admission": 57,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0252",
+        "Municipality_name": "Heumen",
+        "Province": "Gelderland",
+        "Total_reported": 1594,
+        "Hospital_admission": 28,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0262",
+        "Municipality_name": "Lochem",
+        "Province": "Gelderland",
+        "Total_reported": 2527,
+        "Hospital_admission": 40,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0263",
+        "Municipality_name": "Maasdriel",
+        "Province": "Gelderland",
+        "Total_reported": 3851,
+        "Hospital_admission": 43,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0267",
+        "Municipality_name": "Nijkerk",
+        "Province": "Gelderland",
+        "Total_reported": 4920,
+        "Hospital_admission": 53,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0268",
+        "Municipality_name": "Nijmegen",
+        "Province": "Gelderland",
+        "Total_reported": 18483,
+        "Hospital_admission": 280,
+        "Deceased": 192
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0269",
+        "Municipality_name": "Oldebroek",
+        "Province": "Gelderland",
+        "Total_reported": 2391,
+        "Hospital_admission": 50,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0273",
+        "Municipality_name": "Putten",
+        "Province": "Gelderland",
+        "Total_reported": 2715,
+        "Hospital_admission": 21,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0274",
+        "Municipality_name": "Renkum",
+        "Province": "Gelderland",
+        "Total_reported": 2361,
+        "Hospital_admission": 37,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0275",
+        "Municipality_name": "Rheden",
+        "Province": "Gelderland",
+        "Total_reported": 3921,
+        "Hospital_admission": 64,
+        "Deceased": 59
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0277",
+        "Municipality_name": "Rozendaal",
+        "Province": "Gelderland",
+        "Total_reported": 122,
+        "Hospital_admission": 1,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0279",
+        "Municipality_name": "Scherpenzeel",
+        "Province": "Gelderland",
+        "Total_reported": 1167,
+        "Hospital_admission": 5,
+        "Deceased": 12
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0281",
+        "Municipality_name": "Tiel",
+        "Province": "Gelderland",
+        "Total_reported": 4917,
+        "Hospital_admission": 89,
+        "Deceased": 73
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0285",
+        "Municipality_name": "Voorst",
+        "Province": "Gelderland",
+        "Total_reported": 2129,
+        "Hospital_admission": 31,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0289",
+        "Municipality_name": "Wageningen",
+        "Province": "Gelderland",
+        "Total_reported": 3566,
+        "Hospital_admission": 43,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0293",
+        "Municipality_name": "Westervoort",
+        "Province": "Gelderland",
+        "Total_reported": 1369,
+        "Hospital_admission": 21,
+        "Deceased": 9
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0294",
+        "Municipality_name": "Winterswijk",
+        "Province": "Gelderland",
+        "Total_reported": 2313,
+        "Hospital_admission": 18,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0296",
+        "Municipality_name": "Wijchen",
+        "Province": "Gelderland",
+        "Total_reported": 4576,
+        "Hospital_admission": 82,
+        "Deceased": 60
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0297",
+        "Municipality_name": "Zaltbommel",
+        "Province": "Gelderland",
+        "Total_reported": 4089,
+        "Hospital_admission": 41,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0299",
+        "Municipality_name": "Zevenaar",
+        "Province": "Gelderland",
+        "Total_reported": 3698,
+        "Hospital_admission": 84,
+        "Deceased": 48
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0301",
+        "Municipality_name": "Zutphen",
+        "Province": "Gelderland",
+        "Total_reported": 3586,
+        "Hospital_admission": 55,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0302",
+        "Municipality_name": "Nunspeet",
+        "Province": "Gelderland",
+        "Total_reported": 2592,
+        "Hospital_admission": 80,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0303",
+        "Municipality_name": "Dronten",
+        "Province": "Flevoland",
+        "Total_reported": 3397,
+        "Hospital_admission": 64,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0307",
+        "Municipality_name": "Amersfoort",
+        "Province": "Utrecht",
+        "Total_reported": 16239,
+        "Hospital_admission": 270,
+        "Deceased": 139
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0308",
+        "Municipality_name": "Baarn",
+        "Province": "Utrecht",
+        "Total_reported": 2479,
+        "Hospital_admission": 35,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0310",
+        "Municipality_name": "De Bilt",
+        "Province": "Utrecht",
+        "Total_reported": 4241,
+        "Hospital_admission": 76,
+        "Deceased": 78
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0312",
+        "Municipality_name": "Bunnik",
+        "Province": "Utrecht",
+        "Total_reported": 1307,
+        "Hospital_admission": 22,
+        "Deceased": 12
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0313",
+        "Municipality_name": "Bunschoten",
+        "Province": "Utrecht",
+        "Total_reported": 4402,
+        "Hospital_admission": 62,
+        "Deceased": 39
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0317",
+        "Municipality_name": "Eemnes",
+        "Province": "Utrecht",
+        "Total_reported": 1070,
+        "Hospital_admission": 20,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0321",
+        "Municipality_name": "Houten",
+        "Province": "Utrecht",
+        "Total_reported": 4774,
+        "Hospital_admission": 75,
+        "Deceased": 51
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0327",
+        "Municipality_name": "Leusden",
+        "Province": "Utrecht",
+        "Total_reported": 2703,
+        "Hospital_admission": 42,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0331",
+        "Municipality_name": "Lopik",
+        "Province": "Utrecht",
+        "Total_reported": 1771,
+        "Hospital_admission": 39,
+        "Deceased": 12
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0335",
+        "Municipality_name": "Montfoort",
+        "Province": "Utrecht",
+        "Total_reported": 1582,
+        "Hospital_admission": 29,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0339",
+        "Municipality_name": "Renswoude",
+        "Province": "Utrecht",
+        "Total_reported": 667,
+        "Hospital_admission": 7,
+        "Deceased": 5
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0340",
+        "Municipality_name": "Rhenen",
+        "Province": "Utrecht",
+        "Total_reported": 2579,
+        "Hospital_admission": 43,
+        "Deceased": 21
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0342",
+        "Municipality_name": "Soest",
+        "Province": "Utrecht",
+        "Total_reported": 4545,
+        "Hospital_admission": 81,
+        "Deceased": 47
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0344",
+        "Municipality_name": "Utrecht",
+        "Province": "Utrecht",
+        "Total_reported": 40158,
+        "Hospital_admission": 751,
+        "Deceased": 254
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0345",
+        "Municipality_name": "Veenendaal",
+        "Province": "Utrecht",
+        "Total_reported": 8527,
+        "Hospital_admission": 135,
+        "Deceased": 75
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0351",
+        "Municipality_name": "Woudenberg",
+        "Province": "Utrecht",
+        "Total_reported": 1591,
+        "Hospital_admission": 23,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0352",
+        "Municipality_name": "Wijk bij Duurstede",
+        "Province": "Utrecht",
+        "Total_reported": 2120,
+        "Hospital_admission": 34,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0353",
+        "Municipality_name": "IJsselstein",
+        "Province": "Utrecht",
+        "Total_reported": 3673,
+        "Hospital_admission": 89,
+        "Deceased": 55
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0355",
+        "Municipality_name": "Zeist",
+        "Province": "Utrecht",
+        "Total_reported": 5847,
+        "Hospital_admission": 97,
+        "Deceased": 75
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0356",
+        "Municipality_name": "Nieuwegein",
+        "Province": "Utrecht",
+        "Total_reported": 6034,
+        "Hospital_admission": 139,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0358",
+        "Municipality_name": "Aalsmeer",
+        "Province": "Noord-Holland",
+        "Total_reported": 3822,
+        "Hospital_admission": 40,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0361",
+        "Municipality_name": "Alkmaar",
+        "Province": "Noord-Holland",
+        "Total_reported": 11123,
+        "Hospital_admission": 143,
+        "Deceased": 86
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0362",
+        "Municipality_name": "Amstelveen",
+        "Province": "Noord-Holland",
+        "Total_reported": 8978,
+        "Hospital_admission": 139,
+        "Deceased": 92
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0363",
+        "Municipality_name": "Amsterdam",
+        "Province": "Noord-Holland",
+        "Total_reported": 109238,
+        "Hospital_admission": 2054,
+        "Deceased": 829
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0370",
+        "Municipality_name": "Beemster",
+        "Province": "Noord-Holland",
+        "Total_reported": 1023,
+        "Hospital_admission": 9,
+        "Deceased": 3
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0373",
+        "Municipality_name": "Bergen (NH.)",
+        "Province": "Noord-Holland",
+        "Total_reported": 2833,
+        "Hospital_admission": 39,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0375",
+        "Municipality_name": "Beverwijk",
+        "Province": "Noord-Holland",
+        "Total_reported": 4691,
+        "Hospital_admission": 46,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0376",
+        "Municipality_name": "Blaricum",
+        "Province": "Noord-Holland",
+        "Total_reported": 1194,
+        "Hospital_admission": 14,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0377",
+        "Municipality_name": "Bloemendaal",
+        "Province": "Noord-Holland",
+        "Total_reported": 2102,
+        "Hospital_admission": 18,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0383",
+        "Municipality_name": "Castricum",
+        "Province": "Noord-Holland",
+        "Total_reported": 3589,
+        "Hospital_admission": 28,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0384",
+        "Municipality_name": "Diemen",
+        "Province": "Noord-Holland",
+        "Total_reported": 3773,
+        "Hospital_admission": 56,
+        "Deceased": 36
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0385",
+        "Municipality_name": "Edam-Volendam",
+        "Province": "Noord-Holland",
+        "Total_reported": 5489,
+        "Hospital_admission": 98,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0388",
+        "Municipality_name": "Enkhuizen",
+        "Province": "Noord-Holland",
+        "Total_reported": 2077,
+        "Hospital_admission": 31,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0392",
+        "Municipality_name": "Haarlem",
+        "Province": "Noord-Holland",
+        "Total_reported": 15646,
+        "Hospital_admission": 225,
+        "Deceased": 153
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0394",
+        "Municipality_name": "Haarlemmermeer",
+        "Province": "Noord-Holland",
+        "Total_reported": 16404,
+        "Hospital_admission": 192,
+        "Deceased": 110
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0396",
+        "Municipality_name": "Heemskerk",
+        "Province": "Noord-Holland",
+        "Total_reported": 4409,
+        "Hospital_admission": 63,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0397",
+        "Municipality_name": "Heemstede",
+        "Province": "Noord-Holland",
+        "Total_reported": 2408,
+        "Hospital_admission": 26,
+        "Deceased": 60
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0398",
+        "Municipality_name": "Heerhugowaard",
+        "Province": "Noord-Holland",
+        "Total_reported": 6470,
+        "Hospital_admission": 63,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0399",
+        "Municipality_name": "Heiloo",
+        "Province": "Noord-Holland",
+        "Total_reported": 2130,
+        "Hospital_admission": 24,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0400",
+        "Municipality_name": "Den Helder",
+        "Province": "Noord-Holland",
+        "Total_reported": 5750,
+        "Hospital_admission": 68,
+        "Deceased": 40
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0402",
+        "Municipality_name": "Hilversum",
+        "Province": "Noord-Holland",
+        "Total_reported": 8187,
+        "Hospital_admission": 93,
+        "Deceased": 86
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0405",
+        "Municipality_name": "Hoorn",
+        "Province": "Noord-Holland",
+        "Total_reported": 9230,
+        "Hospital_admission": 96,
+        "Deceased": 55
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0406",
+        "Municipality_name": "Huizen",
+        "Province": "Noord-Holland",
+        "Total_reported": 4547,
+        "Hospital_admission": 63,
+        "Deceased": 54
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0415",
+        "Municipality_name": "Landsmeer",
+        "Province": "Noord-Holland",
+        "Total_reported": 1327,
+        "Hospital_admission": 14,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0416",
+        "Municipality_name": "Langedijk",
+        "Province": "Noord-Holland",
+        "Total_reported": 2993,
+        "Hospital_admission": 35,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0417",
+        "Municipality_name": "Laren",
+        "Province": "Noord-Holland",
+        "Total_reported": 1204,
+        "Hospital_admission": 17,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0420",
+        "Municipality_name": "Medemblik",
+        "Province": "Noord-Holland",
+        "Total_reported": 5764,
+        "Hospital_admission": 59,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0431",
+        "Municipality_name": "Oostzaan",
+        "Province": "Noord-Holland",
+        "Total_reported": 1065,
+        "Hospital_admission": 16,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0432",
+        "Municipality_name": "Opmeer",
+        "Province": "Noord-Holland",
+        "Total_reported": 1413,
+        "Hospital_admission": 11,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0437",
+        "Municipality_name": "Ouder-Amstel",
+        "Province": "Noord-Holland",
+        "Total_reported": 1535,
+        "Hospital_admission": 18,
+        "Deceased": 5
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0439",
+        "Municipality_name": "Purmerend",
+        "Province": "Noord-Holland",
+        "Total_reported": 9305,
+        "Hospital_admission": 198,
+        "Deceased": 84
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0441",
+        "Municipality_name": "Schagen",
+        "Province": "Noord-Holland",
+        "Total_reported": 5046,
+        "Hospital_admission": 57,
+        "Deceased": 59
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0448",
+        "Municipality_name": "Texel",
+        "Province": "Noord-Holland",
+        "Total_reported": 705,
+        "Hospital_admission": 6,
+        "Deceased": 4
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0450",
+        "Municipality_name": "Uitgeest",
+        "Province": "Noord-Holland",
+        "Total_reported": 1487,
+        "Hospital_admission": 12,
+        "Deceased": 7
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0451",
+        "Municipality_name": "Uithoorn",
+        "Province": "Noord-Holland",
+        "Total_reported": 3001,
+        "Hospital_admission": 34,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0453",
+        "Municipality_name": "Velsen",
+        "Province": "Noord-Holland",
+        "Total_reported": 7894,
+        "Hospital_admission": 105,
+        "Deceased": 90
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0457",
+        "Municipality_name": "Weesp",
+        "Province": "Noord-Holland",
+        "Total_reported": 2295,
+        "Hospital_admission": 20,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0473",
+        "Municipality_name": "Zandvoort",
+        "Province": "Noord-Holland",
+        "Total_reported": 1662,
+        "Hospital_admission": 25,
+        "Deceased": 43
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0479",
+        "Municipality_name": "Zaanstad",
+        "Province": "Noord-Holland",
+        "Total_reported": 17446,
+        "Hospital_admission": 321,
+        "Deceased": 176
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0482",
+        "Municipality_name": "Alblasserdam",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2888,
+        "Hospital_admission": 46,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0484",
+        "Municipality_name": "Alphen aan den Rijn",
+        "Province": "Zuid-Holland",
+        "Total_reported": 12407,
+        "Hospital_admission": 192,
+        "Deceased": 117
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0489",
+        "Municipality_name": "Barendrecht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 6213,
+        "Hospital_admission": 106,
+        "Deceased": 48
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0498",
+        "Municipality_name": "Drechterland",
+        "Province": "Noord-Holland",
+        "Total_reported": 2356,
+        "Hospital_admission": 25,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0501",
+        "Municipality_name": "Brielle",
+        "Province": "Zuid-Holland",
+        "Total_reported": 1822,
+        "Hospital_admission": 31,
+        "Deceased": 10
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0502",
+        "Municipality_name": "Capelle aan den IJssel",
+        "Province": "Zuid-Holland",
+        "Total_reported": 8847,
+        "Hospital_admission": 187,
+        "Deceased": 145
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0503",
+        "Municipality_name": "Delft",
+        "Province": "Zuid-Holland",
+        "Total_reported": 11370,
+        "Hospital_admission": 105,
+        "Deceased": 75
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0505",
+        "Municipality_name": "Dordrecht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 15423,
+        "Hospital_admission": 269,
+        "Deceased": 181
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0512",
+        "Municipality_name": "Gorinchem",
+        "Province": "Zuid-Holland",
+        "Total_reported": 4626,
+        "Hospital_admission": 48,
+        "Deceased": 43
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0513",
+        "Municipality_name": "Gouda",
+        "Province": "Zuid-Holland",
+        "Total_reported": 8513,
+        "Hospital_admission": 281,
+        "Deceased": 160
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0518",
+        "Municipality_name": "'s-Gravenhage",
+        "Province": "Zuid-Holland",
+        "Total_reported": 61009,
+        "Hospital_admission": 1737,
+        "Deceased": 561
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0523",
+        "Municipality_name": "Hardinxveld-Giessendam",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2900,
+        "Hospital_admission": 17,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0530",
+        "Municipality_name": "Hellevoetsluis",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3998,
+        "Hospital_admission": 71,
+        "Deceased": 43
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0531",
+        "Municipality_name": "Hendrik-Ido-Ambacht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3910,
+        "Hospital_admission": 41,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0532",
+        "Municipality_name": "Stede Broec",
+        "Province": "Noord-Holland",
+        "Total_reported": 2776,
+        "Hospital_admission": 30,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0534",
+        "Municipality_name": "Hillegom",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2076,
+        "Hospital_admission": 21,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0537",
+        "Municipality_name": "Katwijk",
+        "Province": "Zuid-Holland",
+        "Total_reported": 9354,
+        "Hospital_admission": 114,
+        "Deceased": 60
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0542",
+        "Municipality_name": "Krimpen aan den IJssel",
+        "Province": "Zuid-Holland",
+        "Total_reported": 4041,
+        "Hospital_admission": 49,
+        "Deceased": 71
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0546",
+        "Municipality_name": "Leiden",
+        "Province": "Zuid-Holland",
+        "Total_reported": 13112,
+        "Hospital_admission": 141,
+        "Deceased": 73
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0547",
+        "Municipality_name": "Leiderdorp",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2591,
+        "Hospital_admission": 36,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0553",
+        "Municipality_name": "Lisse",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2440,
+        "Hospital_admission": 29,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0556",
+        "Municipality_name": "Maassluis",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3865,
+        "Hospital_admission": 71,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0569",
+        "Municipality_name": "Nieuwkoop",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3619,
+        "Hospital_admission": 46,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0575",
+        "Municipality_name": "Noordwijk",
+        "Province": "Zuid-Holland",
+        "Total_reported": 4962,
+        "Hospital_admission": 67,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0579",
+        "Municipality_name": "Oegstgeest",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2258,
+        "Hospital_admission": 23,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0589",
+        "Municipality_name": "Oudewater",
+        "Province": "Utrecht",
+        "Total_reported": 1138,
+        "Hospital_admission": 38,
+        "Deceased": 12
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0590",
+        "Municipality_name": "Papendrecht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3842,
+        "Hospital_admission": 47,
+        "Deceased": 46
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0597",
+        "Municipality_name": "Ridderkerk",
+        "Province": "Zuid-Holland",
+        "Total_reported": 6427,
+        "Hospital_admission": 114,
+        "Deceased": 90
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0599",
+        "Municipality_name": "Rotterdam",
+        "Province": "Zuid-Holland",
+        "Total_reported": 91861,
+        "Hospital_admission": 2014,
+        "Deceased": 975
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0603",
+        "Municipality_name": "Rijswijk",
+        "Province": "Zuid-Holland",
+        "Total_reported": 5536,
+        "Hospital_admission": 137,
+        "Deceased": 76
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0606",
+        "Municipality_name": "Schiedam",
+        "Province": "Zuid-Holland",
+        "Total_reported": 10132,
+        "Hospital_admission": 242,
+        "Deceased": 115
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0610",
+        "Municipality_name": "Sliedrecht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3596,
+        "Hospital_admission": 33,
+        "Deceased": 41
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0613",
+        "Municipality_name": "Albrandswaard",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3444,
+        "Hospital_admission": 50,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0614",
+        "Municipality_name": "Westvoorne",
+        "Province": "Zuid-Holland",
+        "Total_reported": 1272,
+        "Hospital_admission": 23,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0622",
+        "Municipality_name": "Vlaardingen",
+        "Province": "Zuid-Holland",
+        "Total_reported": 9554,
+        "Hospital_admission": 180,
+        "Deceased": 91
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0626",
+        "Municipality_name": "Voorschoten",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2142,
+        "Hospital_admission": 23,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0627",
+        "Municipality_name": "Waddinxveen",
+        "Province": "Zuid-Holland",
+        "Total_reported": 3269,
+        "Hospital_admission": 74,
+        "Deceased": 16
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0629",
+        "Municipality_name": "Wassenaar",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2380,
+        "Hospital_admission": 41,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0632",
+        "Municipality_name": "Woerden",
+        "Province": "Utrecht",
+        "Total_reported": 5826,
+        "Hospital_admission": 146,
+        "Deceased": 39
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0637",
+        "Municipality_name": "Zoetermeer",
+        "Province": "Zuid-Holland",
+        "Total_reported": 12662,
+        "Hospital_admission": 177,
+        "Deceased": 70
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0638",
+        "Municipality_name": "Zoeterwoude",
+        "Province": "Zuid-Holland",
+        "Total_reported": 945,
+        "Hospital_admission": 10,
+        "Deceased": 1
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0642",
+        "Municipality_name": "Zwijndrecht",
+        "Province": "Zuid-Holland",
+        "Total_reported": 5790,
+        "Hospital_admission": 90,
+        "Deceased": 102
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0654",
+        "Municipality_name": "Borsele",
+        "Province": "Zeeland",
+        "Total_reported": 1724,
+        "Hospital_admission": 42,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0664",
+        "Municipality_name": "Goes",
+        "Province": "Zeeland",
+        "Total_reported": 3057,
+        "Hospital_admission": 100,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0668",
+        "Municipality_name": "West Maas en Waal",
+        "Province": "Gelderland",
+        "Total_reported": 2195,
+        "Hospital_admission": 25,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0677",
+        "Municipality_name": "Hulst",
+        "Province": "Zeeland",
+        "Total_reported": 1988,
+        "Hospital_admission": 41,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0678",
+        "Municipality_name": "Kapelle",
+        "Province": "Zeeland",
+        "Total_reported": 1152,
+        "Hospital_admission": 16,
+        "Deceased": 6
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0687",
+        "Municipality_name": "Middelburg",
+        "Province": "Zeeland",
+        "Total_reported": 3926,
+        "Hospital_admission": 78,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0703",
+        "Municipality_name": "Reimerswaal",
+        "Province": "Zeeland",
+        "Total_reported": 3196,
+        "Hospital_admission": 59,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0715",
+        "Municipality_name": "Terneuzen",
+        "Province": "Zeeland",
+        "Total_reported": 4437,
+        "Hospital_admission": 122,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0716",
+        "Municipality_name": "Tholen",
+        "Province": "Zeeland",
+        "Total_reported": 3202,
+        "Hospital_admission": 72,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0717",
+        "Municipality_name": "Veere",
+        "Province": "Zeeland",
+        "Total_reported": 1594,
+        "Hospital_admission": 32,
+        "Deceased": 7
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0718",
+        "Municipality_name": "Vlissingen",
+        "Province": "Zeeland",
+        "Total_reported": 3606,
+        "Hospital_admission": 130,
+        "Deceased": 32
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0736",
+        "Municipality_name": "De Ronde Venen",
+        "Province": "Utrecht",
+        "Total_reported": 4685,
+        "Hospital_admission": 119,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0737",
+        "Municipality_name": "Tytsjerksteradiel",
+        "Province": "Fryslân",
+        "Total_reported": 2199,
+        "Hospital_admission": 23,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0743",
+        "Municipality_name": "Asten",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1940,
+        "Hospital_admission": 33,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0744",
+        "Municipality_name": "Baarle-Nassau",
+        "Province": "Noord-Brabant",
+        "Total_reported": 657,
+        "Hospital_admission": 13,
+        "Deceased": 4
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0748",
+        "Municipality_name": "Bergen op Zoom",
+        "Province": "Noord-Brabant",
+        "Total_reported": 7768,
+        "Hospital_admission": 97,
+        "Deceased": 44
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0753",
+        "Municipality_name": "Best",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3419,
+        "Hospital_admission": 57,
+        "Deceased": 31
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0755",
+        "Municipality_name": "Boekel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1170,
+        "Hospital_admission": 42,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0756",
+        "Municipality_name": "Boxmeer",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3597,
+        "Hospital_admission": 40,
+        "Deceased": 45
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0757",
+        "Municipality_name": "Boxtel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3851,
+        "Hospital_admission": 51,
+        "Deceased": 69
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0758",
+        "Municipality_name": "Breda",
+        "Province": "Noord-Brabant",
+        "Total_reported": 20190,
+        "Hospital_admission": 261,
+        "Deceased": 147
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0762",
+        "Municipality_name": "Deurne",
+        "Province": "Noord-Brabant",
+        "Total_reported": 4135,
+        "Hospital_admission": 91,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0765",
+        "Municipality_name": "Pekela",
+        "Province": "Groningen",
+        "Total_reported": 1095,
+        "Hospital_admission": 25,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0766",
+        "Municipality_name": "Dongen",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3279,
+        "Hospital_admission": 47,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0770",
+        "Municipality_name": "Eersel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2611,
+        "Hospital_admission": 49,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0772",
+        "Municipality_name": "Eindhoven",
+        "Province": "Noord-Brabant",
+        "Total_reported": 26020,
+        "Hospital_admission": 457,
+        "Deceased": 357
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0777",
+        "Municipality_name": "Etten-Leur",
+        "Province": "Noord-Brabant",
+        "Total_reported": 4259,
+        "Hospital_admission": 71,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0779",
+        "Municipality_name": "Geertruidenberg",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2586,
+        "Hospital_admission": 31,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0784",
+        "Municipality_name": "Gilze en Rijen",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2914,
+        "Hospital_admission": 41,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0785",
+        "Municipality_name": "Goirle",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2748,
+        "Hospital_admission": 42,
+        "Deceased": 36
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0786",
+        "Municipality_name": "Grave",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1592,
+        "Hospital_admission": 31,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0794",
+        "Municipality_name": "Helmond",
+        "Province": "Noord-Brabant",
+        "Total_reported": 12314,
+        "Hospital_admission": 207,
+        "Deceased": 85
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0796",
+        "Municipality_name": "'s-Hertogenbosch",
+        "Province": "Noord-Brabant",
+        "Total_reported": 19240,
+        "Hospital_admission": 264,
+        "Deceased": 172
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0797",
+        "Municipality_name": "Heusden",
+        "Province": "Noord-Brabant",
+        "Total_reported": 5764,
+        "Hospital_admission": 91,
+        "Deceased": 50
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0798",
+        "Municipality_name": "Hilvarenbeek",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1774,
+        "Hospital_admission": 20,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0809",
+        "Municipality_name": "Loon op Zand",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2920,
+        "Hospital_admission": 52,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0815",
+        "Municipality_name": "Mill en Sint Hubert",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1320,
+        "Hospital_admission": 17,
+        "Deceased": 10
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0820",
+        "Municipality_name": "Nuenen, Gerwen en Nederwetten",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2374,
+        "Hospital_admission": 34,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0823",
+        "Municipality_name": "Oirschot",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2530,
+        "Hospital_admission": 32,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0824",
+        "Municipality_name": "Oisterwijk",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3445,
+        "Hospital_admission": 55,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0826",
+        "Municipality_name": "Oosterhout",
+        "Province": "Noord-Brabant",
+        "Total_reported": 5941,
+        "Hospital_admission": 86,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0828",
+        "Municipality_name": "Oss",
+        "Province": "Noord-Brabant",
+        "Total_reported": 11655,
+        "Hospital_admission": 246,
+        "Deceased": 129
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0840",
+        "Municipality_name": "Rucphen",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2521,
+        "Hospital_admission": 46,
+        "Deceased": 16
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0845",
+        "Municipality_name": "Sint-Michielsgestel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3631,
+        "Hospital_admission": 53,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0847",
+        "Municipality_name": "Someren",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2457,
+        "Hospital_admission": 48,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0848",
+        "Municipality_name": "Son en Breugel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1691,
+        "Hospital_admission": 43,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0851",
+        "Municipality_name": "Steenbergen",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2558,
+        "Hospital_admission": 34,
+        "Deceased": 19
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0852",
+        "Municipality_name": "Waterland",
+        "Province": "Noord-Holland",
+        "Total_reported": 2021,
+        "Hospital_admission": 33,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0855",
+        "Municipality_name": "Tilburg",
+        "Province": "Noord-Brabant",
+        "Total_reported": 27364,
+        "Hospital_admission": 418,
+        "Deceased": 277
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0856",
+        "Municipality_name": "Uden",
+        "Province": "Noord-Brabant",
+        "Total_reported": 4646,
+        "Hospital_admission": 139,
+        "Deceased": 86
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0858",
+        "Municipality_name": "Valkenswaard",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3662,
+        "Hospital_admission": 59,
+        "Deceased": 63
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0861",
+        "Municipality_name": "Veldhoven",
+        "Province": "Noord-Brabant",
+        "Total_reported": 5433,
+        "Hospital_admission": 85,
+        "Deceased": 50
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0865",
+        "Municipality_name": "Vught",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3604,
+        "Hospital_admission": 76,
+        "Deceased": 53
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0866",
+        "Municipality_name": "Waalre",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1824,
+        "Hospital_admission": 23,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0867",
+        "Municipality_name": "Waalwijk",
+        "Province": "Noord-Brabant",
+        "Total_reported": 5912,
+        "Hospital_admission": 80,
+        "Deceased": 77
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0873",
+        "Municipality_name": "Woensdrecht",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2126,
+        "Hospital_admission": 23,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0879",
+        "Municipality_name": "Zundert",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1914,
+        "Hospital_admission": 37,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0880",
+        "Municipality_name": "Wormerland",
+        "Province": "Noord-Holland",
+        "Total_reported": 1770,
+        "Hospital_admission": 37,
+        "Deceased": 33
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0882",
+        "Municipality_name": "Landgraaf",
+        "Province": "Limburg",
+        "Total_reported": 3766,
+        "Hospital_admission": 100,
+        "Deceased": 70
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0888",
+        "Municipality_name": "Beek",
+        "Province": "Limburg",
+        "Total_reported": 1677,
+        "Hospital_admission": 32,
+        "Deceased": 12
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0889",
+        "Municipality_name": "Beesel",
+        "Province": "Limburg",
+        "Total_reported": 1608,
+        "Hospital_admission": 30,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0893",
+        "Municipality_name": "Bergen (L.)",
+        "Province": "Limburg",
+        "Total_reported": 1707,
+        "Hospital_admission": 25,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0899",
+        "Municipality_name": "Brunssum",
+        "Province": "Limburg",
+        "Total_reported": 2980,
+        "Hospital_admission": 91,
+        "Deceased": 52
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0907",
+        "Municipality_name": "Gennep",
+        "Province": "Limburg",
+        "Total_reported": 1932,
+        "Hospital_admission": 29,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0917",
+        "Municipality_name": "Heerlen",
+        "Province": "Limburg",
+        "Total_reported": 8185,
+        "Hospital_admission": 246,
+        "Deceased": 126
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0928",
+        "Municipality_name": "Kerkrade",
+        "Province": "Limburg",
+        "Total_reported": 4343,
+        "Hospital_admission": 143,
+        "Deceased": 96
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0935",
+        "Municipality_name": "Maastricht",
+        "Province": "Limburg",
+        "Total_reported": 12015,
+        "Hospital_admission": 350,
+        "Deceased": 201
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0938",
+        "Municipality_name": "Meerssen",
+        "Province": "Limburg",
+        "Total_reported": 1678,
+        "Hospital_admission": 54,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0944",
+        "Municipality_name": "Mook en Middelaar",
+        "Province": "Limburg",
+        "Total_reported": 681,
+        "Hospital_admission": 11,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0946",
+        "Municipality_name": "Nederweert",
+        "Province": "Limburg",
+        "Total_reported": 2458,
+        "Hospital_admission": 47,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0957",
+        "Municipality_name": "Roermond",
+        "Province": "Limburg",
+        "Total_reported": 6935,
+        "Hospital_admission": 107,
+        "Deceased": 62
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0965",
+        "Municipality_name": "Simpelveld",
+        "Province": "Limburg",
+        "Total_reported": 990,
+        "Hospital_admission": 28,
+        "Deceased": 9
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0971",
+        "Municipality_name": "Stein",
+        "Province": "Limburg",
+        "Total_reported": 2603,
+        "Hospital_admission": 78,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0981",
+        "Municipality_name": "Vaals",
+        "Province": "Limburg",
+        "Total_reported": 757,
+        "Hospital_admission": 24,
+        "Deceased": 14
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0983",
+        "Municipality_name": "Venlo",
+        "Province": "Limburg",
+        "Total_reported": 14708,
+        "Hospital_admission": 235,
+        "Deceased": 170
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0984",
+        "Municipality_name": "Venray",
+        "Province": "Limburg",
+        "Total_reported": 6117,
+        "Hospital_admission": 65,
+        "Deceased": 49
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0986",
+        "Municipality_name": "Voerendaal",
+        "Province": "Limburg",
+        "Total_reported": 1184,
+        "Hospital_admission": 26,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0988",
+        "Municipality_name": "Weert",
+        "Province": "Limburg",
+        "Total_reported": 6776,
+        "Hospital_admission": 116,
+        "Deceased": 69
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0994",
+        "Municipality_name": "Valkenburg aan de Geul",
+        "Province": "Limburg",
+        "Total_reported": 1502,
+        "Hospital_admission": 38,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM0995",
+        "Municipality_name": "Lelystad",
+        "Province": "Flevoland",
+        "Total_reported": 6611,
+        "Hospital_admission": 143,
+        "Deceased": 63
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1507",
+        "Municipality_name": "Horst aan de Maas",
+        "Province": "Limburg",
+        "Total_reported": 6309,
+        "Hospital_admission": 61,
+        "Deceased": 66
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1509",
+        "Municipality_name": "Oude IJsselstreek",
+        "Province": "Gelderland",
+        "Total_reported": 4489,
+        "Hospital_admission": 50,
+        "Deceased": 45
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1525",
+        "Municipality_name": "Teylingen",
+        "Province": "Zuid-Holland",
+        "Total_reported": 4441,
+        "Hospital_admission": 40,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1581",
+        "Municipality_name": "Utrechtse Heuvelrug",
+        "Province": "Utrecht",
+        "Total_reported": 4528,
+        "Hospital_admission": 96,
+        "Deceased": 73
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1586",
+        "Municipality_name": "Oost Gelre",
+        "Province": "Gelderland",
+        "Total_reported": 3306,
+        "Hospital_admission": 35,
+        "Deceased": 41
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1598",
+        "Municipality_name": "Koggenland",
+        "Province": "Noord-Holland",
+        "Total_reported": 2914,
+        "Hospital_admission": 24,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1621",
+        "Municipality_name": "Lansingerland",
+        "Province": "Zuid-Holland",
+        "Total_reported": 7374,
+        "Hospital_admission": 97,
+        "Deceased": 64
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1640",
+        "Municipality_name": "Leudal",
+        "Province": "Limburg",
+        "Total_reported": 4326,
+        "Hospital_admission": 77,
+        "Deceased": 52
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1641",
+        "Municipality_name": "Maasgouw",
+        "Province": "Limburg",
+        "Total_reported": 2708,
+        "Hospital_admission": 43,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1652",
+        "Municipality_name": "Gemert-Bakel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3218,
+        "Hospital_admission": 102,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1655",
+        "Municipality_name": "Halderberge",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3375,
+        "Hospital_admission": 57,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1658",
+        "Municipality_name": "Heeze-Leende",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1724,
+        "Hospital_admission": 23,
+        "Deceased": 13
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1659",
+        "Municipality_name": "Laarbeek",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2795,
+        "Hospital_admission": 63,
+        "Deceased": 36
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1667",
+        "Municipality_name": "Reusel-De Mierden",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1766,
+        "Hospital_admission": 23,
+        "Deceased": 10
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1669",
+        "Municipality_name": "Roerdalen",
+        "Province": "Limburg",
+        "Total_reported": 2227,
+        "Hospital_admission": 49,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1674",
+        "Municipality_name": "Roosendaal",
+        "Province": "Noord-Brabant",
+        "Total_reported": 8575,
+        "Hospital_admission": 106,
+        "Deceased": 75
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1676",
+        "Municipality_name": "Schouwen-Duiveland",
+        "Province": "Zeeland",
+        "Total_reported": 2446,
+        "Hospital_admission": 56,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1680",
+        "Municipality_name": "Aa en Hunze",
+        "Province": "Drenthe",
+        "Total_reported": 1590,
+        "Hospital_admission": 7,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1681",
+        "Municipality_name": "Borger-Odoorn",
+        "Province": "Drenthe",
+        "Total_reported": 1685,
+        "Hospital_admission": 32,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1684",
+        "Municipality_name": "Cuijk",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2916,
+        "Hospital_admission": 37,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1685",
+        "Municipality_name": "Landerd",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2034,
+        "Hospital_admission": 51,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1690",
+        "Municipality_name": "De Wolden",
+        "Province": "Drenthe",
+        "Total_reported": 2157,
+        "Hospital_admission": 33,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1695",
+        "Municipality_name": "Noord-Beveland",
+        "Province": "Zeeland",
+        "Total_reported": 599,
+        "Hospital_admission": 20,
+        "Deceased": 9
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1696",
+        "Municipality_name": "Wijdemeren",
+        "Province": "Noord-Holland",
+        "Total_reported": 2248,
+        "Hospital_admission": 25,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1699",
+        "Municipality_name": "Noordenveld",
+        "Province": "Drenthe",
+        "Total_reported": 1997,
+        "Hospital_admission": 31,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1700",
+        "Municipality_name": "Twenterand",
+        "Province": "Overijssel",
+        "Total_reported": 4826,
+        "Hospital_admission": 43,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1701",
+        "Municipality_name": "Westerveld",
+        "Province": "Drenthe",
+        "Total_reported": 1050,
+        "Hospital_admission": 17,
+        "Deceased": 22
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1702",
+        "Municipality_name": "Sint Anthonis",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1292,
+        "Hospital_admission": 28,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1705",
+        "Municipality_name": "Lingewaard",
+        "Province": "Gelderland",
+        "Total_reported": 4276,
+        "Hospital_admission": 63,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1706",
+        "Municipality_name": "Cranendonck",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2773,
+        "Hospital_admission": 79,
+        "Deceased": 52
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1708",
+        "Municipality_name": "Steenwijkerland",
+        "Province": "Overijssel",
+        "Total_reported": 3489,
+        "Hospital_admission": 33,
+        "Deceased": 27
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1709",
+        "Municipality_name": "Moerdijk",
+        "Province": "Noord-Brabant",
+        "Total_reported": 3905,
+        "Hospital_admission": 48,
+        "Deceased": 43
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1711",
+        "Municipality_name": "Echt-Susteren",
+        "Province": "Limburg",
+        "Total_reported": 3354,
+        "Hospital_admission": 65,
+        "Deceased": 36
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1714",
+        "Municipality_name": "Sluis",
+        "Province": "Zeeland",
+        "Total_reported": 1565,
+        "Hospital_admission": 46,
+        "Deceased": 18
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1719",
+        "Municipality_name": "Drimmelen",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2917,
+        "Hospital_admission": 49,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1721",
+        "Municipality_name": "Bernheze",
+        "Province": "Noord-Brabant",
+        "Total_reported": 4241,
+        "Hospital_admission": 113,
+        "Deceased": 78
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1723",
+        "Municipality_name": "Alphen-Chaam",
+        "Province": "Noord-Brabant",
+        "Total_reported": 1013,
+        "Hospital_admission": 24,
+        "Deceased": 5
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1724",
+        "Municipality_name": "Bergeijk",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2438,
+        "Hospital_admission": 28,
+        "Deceased": 11
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1728",
+        "Municipality_name": "Bladel",
+        "Province": "Noord-Brabant",
+        "Total_reported": 2987,
+        "Hospital_admission": 40,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1729",
+        "Municipality_name": "Gulpen-Wittem",
+        "Province": "Limburg",
+        "Total_reported": 1300,
+        "Hospital_admission": 34,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1730",
+        "Municipality_name": "Tynaarlo",
+        "Province": "Drenthe",
+        "Total_reported": 1873,
+        "Hospital_admission": 25,
+        "Deceased": 24
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1731",
+        "Municipality_name": "Midden-Drenthe",
+        "Province": "Drenthe",
+        "Total_reported": 2224,
+        "Hospital_admission": 35,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1734",
+        "Municipality_name": "Overbetuwe",
+        "Province": "Gelderland",
+        "Total_reported": 4305,
+        "Hospital_admission": 74,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1735",
+        "Municipality_name": "Hof van Twente",
+        "Province": "Overijssel",
+        "Total_reported": 4011,
+        "Hospital_admission": 34,
+        "Deceased": 29
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1740",
+        "Municipality_name": "Neder-Betuwe",
+        "Province": "Gelderland",
+        "Total_reported": 3052,
+        "Hospital_admission": 64,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1742",
+        "Municipality_name": "Rijssen-Holten",
+        "Province": "Overijssel",
+        "Total_reported": 5223,
+        "Hospital_admission": 55,
+        "Deceased": 54
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1771",
+        "Municipality_name": "Geldrop-Mierlo",
+        "Province": "Noord-Brabant",
+        "Total_reported": 4785,
+        "Hospital_admission": 78,
+        "Deceased": 28
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1773",
+        "Municipality_name": "Olst-Wijhe",
+        "Province": "Overijssel",
+        "Total_reported": 1526,
+        "Hospital_admission": 21,
+        "Deceased": 10
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1774",
+        "Municipality_name": "Dinkelland",
+        "Province": "Overijssel",
+        "Total_reported": 3636,
+        "Hospital_admission": 37,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1783",
+        "Municipality_name": "Westland",
+        "Province": "Zuid-Holland",
+        "Total_reported": 15568,
+        "Hospital_admission": 192,
+        "Deceased": 86
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1842",
+        "Municipality_name": "Midden-Delfland",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2283,
+        "Hospital_admission": 19,
+        "Deceased": 14
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1859",
+        "Municipality_name": "Berkelland",
+        "Province": "Gelderland",
+        "Total_reported": 4273,
+        "Hospital_admission": 43,
+        "Deceased": 42
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1876",
+        "Municipality_name": "Bronckhorst",
+        "Province": "Gelderland",
+        "Total_reported": 3389,
+        "Hospital_admission": 37,
+        "Deceased": 21
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1883",
+        "Municipality_name": "Sittard-Geleen",
+        "Province": "Limburg",
+        "Total_reported": 9247,
+        "Hospital_admission": 221,
+        "Deceased": 145
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1884",
+        "Municipality_name": "Kaag en Braassem",
+        "Province": "Zuid-Holland",
+        "Total_reported": 2868,
+        "Hospital_admission": 26,
+        "Deceased": 10
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1891",
+        "Municipality_name": "Dantumadiel",
+        "Province": "Fryslân",
+        "Total_reported": 1552,
+        "Hospital_admission": 18,
+        "Deceased": 17
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1892",
+        "Municipality_name": "Zuidplas",
+        "Province": "Zuid-Holland",
+        "Total_reported": 5330,
+        "Hospital_admission": 122,
+        "Deceased": 47
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1894",
+        "Municipality_name": "Peel en Maas",
+        "Province": "Limburg",
+        "Total_reported": 5366,
+        "Hospital_admission": 165,
+        "Deceased": 85
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1895",
+        "Municipality_name": "Oldambt",
+        "Province": "Groningen",
+        "Total_reported": 3007,
+        "Hospital_admission": 45,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1896",
+        "Municipality_name": "Zwartewaterland",
+        "Province": "Overijssel",
+        "Total_reported": 2600,
+        "Hospital_admission": 52,
+        "Deceased": 30
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1900",
+        "Municipality_name": "Súdwest-Fryslân",
+        "Province": "Fryslân",
+        "Total_reported": 8594,
+        "Hospital_admission": 79,
+        "Deceased": 91
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1901",
+        "Municipality_name": "Bodegraven-Reeuwijk",
+        "Province": "Zuid-Holland",
+        "Total_reported": 4363,
+        "Hospital_admission": 80,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1903",
+        "Municipality_name": "Eijsden-Margraten",
+        "Province": "Limburg",
+        "Total_reported": 2428,
+        "Hospital_admission": 89,
+        "Deceased": 47
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1904",
+        "Municipality_name": "Stichtse Vecht",
+        "Province": "Utrecht",
+        "Total_reported": 6623,
+        "Hospital_admission": 147,
+        "Deceased": 69
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1911",
+        "Municipality_name": "Hollands Kroon",
+        "Province": "Noord-Holland",
+        "Total_reported": 4783,
+        "Hospital_admission": 50,
+        "Deceased": 34
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1916",
+        "Municipality_name": "Leidschendam-Voorburg",
+        "Province": "Zuid-Holland",
+        "Total_reported": 7485,
+        "Hospital_admission": 163,
+        "Deceased": 85
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1924",
+        "Municipality_name": "Goeree-Overflakkee",
+        "Province": "Zuid-Holland",
+        "Total_reported": 5203,
+        "Hospital_admission": 133,
+        "Deceased": 90
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1926",
+        "Municipality_name": "Pijnacker-Nootdorp",
+        "Province": "Zuid-Holland",
+        "Total_reported": 6165,
+        "Hospital_admission": 74,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1930",
+        "Municipality_name": "Nissewaard",
+        "Province": "Zuid-Holland",
+        "Total_reported": 9811,
+        "Hospital_admission": 185,
+        "Deceased": 99
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1931",
+        "Municipality_name": "Krimpenerwaard",
+        "Province": "Zuid-Holland",
+        "Total_reported": 6862,
+        "Hospital_admission": 153,
+        "Deceased": 64
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1940",
+        "Municipality_name": "De Fryske Marren",
+        "Province": "Fryslân",
+        "Total_reported": 4185,
+        "Hospital_admission": 57,
+        "Deceased": 33
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1942",
+        "Municipality_name": "Gooise Meren",
+        "Province": "Noord-Holland",
+        "Total_reported": 6045,
+        "Hospital_admission": 62,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1945",
+        "Municipality_name": "Berg en Dal",
+        "Province": "Gelderland",
+        "Total_reported": 3575,
+        "Hospital_admission": 56,
+        "Deceased": 51
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1948",
+        "Municipality_name": "Meierijstad",
+        "Province": "Noord-Brabant",
+        "Total_reported": 9733,
+        "Hospital_admission": 265,
+        "Deceased": 168
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1949",
+        "Municipality_name": "Waadhoeke",
+        "Province": "Fryslân",
+        "Total_reported": 3221,
+        "Hospital_admission": 43,
+        "Deceased": 37
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1950",
+        "Municipality_name": "Westerwolde",
+        "Province": "Groningen",
+        "Total_reported": 2483,
+        "Hospital_admission": 36,
+        "Deceased": 21
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1952",
+        "Municipality_name": "Midden-Groningen",
+        "Province": "Groningen",
+        "Total_reported": 4181,
+        "Hospital_admission": 56,
+        "Deceased": 40
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1954",
+        "Municipality_name": "Beekdaelen",
+        "Province": "Limburg",
+        "Total_reported": 3789,
+        "Hospital_admission": 102,
+        "Deceased": 52
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1955",
+        "Municipality_name": "Montferland",
+        "Province": "Gelderland",
+        "Total_reported": 3402,
+        "Hospital_admission": 42,
+        "Deceased": 25
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1959",
+        "Municipality_name": "Altena",
+        "Province": "Noord-Brabant",
+        "Total_reported": 7336,
+        "Hospital_admission": 87,
+        "Deceased": 68
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1960",
+        "Municipality_name": "West Betuwe",
+        "Province": "Gelderland",
+        "Total_reported": 6515,
+        "Hospital_admission": 87,
+        "Deceased": 61
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1961",
+        "Municipality_name": "Vijfheerenlanden",
+        "Province": "Utrecht",
+        "Total_reported": 6772,
+        "Hospital_admission": 124,
+        "Deceased": 76
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1963",
+        "Municipality_name": "Hoeksche Waard",
+        "Province": "Zuid-Holland",
+        "Total_reported": 9526,
+        "Hospital_admission": 156,
+        "Deceased": 67
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1966",
+        "Municipality_name": "Het Hogeland",
+        "Province": "Groningen",
+        "Total_reported": 4143,
+        "Hospital_admission": 36,
+        "Deceased": 20
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1969",
+        "Municipality_name": "Westerkwartier",
+        "Province": "Groningen",
+        "Total_reported": 4041,
+        "Hospital_admission": 39,
+        "Deceased": 26
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1970",
+        "Municipality_name": "Noardeast-Fryslân",
+        "Province": "Fryslân",
+        "Total_reported": 3496,
+        "Hospital_admission": 48,
+        "Deceased": 38
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1978",
+        "Municipality_name": "Molenlanden",
+        "Province": "Zuid-Holland",
+        "Total_reported": 6145,
+        "Hospital_admission": 54,
+        "Deceased": 35
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": "GM1979",
+        "Municipality_name": "Eemsdelta",
+        "Province": "Groningen",
+        "Total_reported": 3062,
+        "Hospital_admission": 51,
+        "Deceased": 23
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Groningen",
+        "Total_reported": 62,
+        "Hospital_admission": 1,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Fryslân",
+        "Total_reported": 66,
+        "Hospital_admission": 1,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Drenthe",
+        "Total_reported": 45,
+        "Hospital_admission": 0,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Overijssel",
+        "Total_reported": 473,
+        "Hospital_admission": 5,
+        "Deceased": 3
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Flevoland",
+        "Total_reported": 36,
+        "Hospital_admission": 1,
+        "Deceased": 0
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Gelderland",
+        "Total_reported": 593,
+        "Hospital_admission": 10,
+        "Deceased": 3
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Utrecht",
+        "Total_reported": 250,
+        "Hospital_admission": 14,
+        "Deceased": 2
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Noord-Holland",
+        "Total_reported": 1130,
+        "Hospital_admission": 19,
+        "Deceased": 2
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Zuid-Holland",
+        "Total_reported": 2807,
+        "Hospital_admission": 53,
+        "Deceased": 15
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Zeeland",
+        "Total_reported": 77,
+        "Hospital_admission": 4,
+        "Deceased": 1
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Noord-Brabant",
+        "Total_reported": 1457,
+        "Hospital_admission": 32,
+        "Deceased": 8
+    },
+    {
+        "Date_of_report": "2021-08-10 10:00:00",
+        "Municipality_code": null,
+        "Municipality_name": null,
+        "Province": "Limburg",
+        "Total_reported": 393,
+        "Hospital_admission": 7,
+        "Deceased": 3
+    }
+]
