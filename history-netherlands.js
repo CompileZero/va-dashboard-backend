@@ -9,7 +9,7 @@ function getPastDates() {
 
     let listOfDates = [];
     const today = new Date();
-    for (let i = 1; i <= 7; i++) {
+    for (let i = 1; i <= 32; i++) {
         today.setDate(today.getDate() - 1);
         dayString = today.toISOString().split("T")[0];
         listOfDates.push(`${dayString} 10:00:00`);
@@ -32,9 +32,9 @@ downloadData = (path, fileName) => {
     });
 };
 
-// downloadData("https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json", "../nl_data.json");
 
 function writeData() {
+
 
     fs.createReadStream("../nl_data.json").pipe(JSONStream.parse('*')).on("data", function (dataObj) {
         // console.log(dataObj);
@@ -65,5 +65,5 @@ function writeData() {
         });
     });
 }
-
+// downloadData("https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json", "../nl_data.json");
 writeData();
