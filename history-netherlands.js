@@ -74,4 +74,3 @@ function writeData() {
     });
 }
 downloadData("https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json", "./data/nl_data.json");
-// writeData();
