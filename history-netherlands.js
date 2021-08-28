@@ -25,10 +25,12 @@ let finalArrayObj = [];
 
 downloadData = (path, fileName) => {
     const file = fs.createWriteStream(fileName);
-
     const request = https.get(path, function (response) {
         response.pipe(file);
-        console.log("Done with Download!");
+        response.on('end', () => {
+            console.log("Done with Download!, Now Writing File Data");
+            writeData();
+        });
     });
 };
 
@@ -36,7 +38,7 @@ downloadData = (path, fileName) => {
 function writeData() {
 
 
-    fs.createReadStream("../nl_data.json").pipe(JSONStream.parse('*')).on("data", function (dataObj) {
+    fs.createReadStream("./data/nl_data.json").pipe(JSONStream.parse('*')).on("data", function (dataObj) {
         // console.log(dataObj);
         let municipalityName = dataObj["Municipality_name"];
         let municipalityObject = { municipalityName: [] };
@@ -60,10 +62,16 @@ function writeData() {
             if (err) {
                 console.log(err);
             } else {
+                try {
+                    fs.unlinkSync("./data/nl_data.json");
+                    //file removed
+                } catch (err) {
+                    console.error(err);
+                }
                 console.log("Done!");
             }
         });
     });
 }
-// downloadData("https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json", "../nl_data.json");
-writeData();
+downloadData("https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json", "./data/nl_data.json");
+// writeData();
