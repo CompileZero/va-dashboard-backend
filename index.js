@@ -10,12 +10,8 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send("This is a sample express app");
+    // res.send("To access the Netherlands data, proceed add /nldata to your URL");
+    res.send(datafile);
 });
-
-app.get("/nldata", (req, res) => {
-    res.status(200).send(datafile);
-});
-
 
 app.listen(PORT, () => console.log(`Server is live on http://localhost:${PORT}`));
