@@ -14,4 +14,4 @@ app.get('/', (req, res) => {
     res.send(datafile);
 });
 
-app.listen(PORT, () => console.log(`Server is live on http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Server is live`));

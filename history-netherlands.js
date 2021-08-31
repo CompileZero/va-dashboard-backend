@@ -36,10 +36,8 @@ downloadData = (path, fileName) => {
 
 
 function writeData() {
-
-
     fs.createReadStream("./data/nl_data.json").pipe(JSONStream.parse('*')).on("data", function (dataObj) {
-        // console.log(dataObj);
+
         let municipalityName = dataObj["Municipality_name"];
         let municipalityObject = { municipalityName: [] };
         if (listOfDates.includes(dataObj["Date_of_report"])) {
@@ -64,7 +62,6 @@ function writeData() {
             } else {
                 try {
                     fs.unlinkSync("./data/nl_data.json");
-                    //file removed
                 } catch (err) {
                     console.error(err);
                 }
