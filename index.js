@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    // res.send("To access the Netherlands data, proceed add /nldata to your URL");
+
     res.send(datafile);
 });
 
