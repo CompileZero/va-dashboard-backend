@@ -1,7 +1,0 @@
-name: "Fetch Netherlands Data"
-description: "Fetches the NL data and parses it to keep only the important parts"
-author: "Atharva Kulkarni"
-
-runs:
-  using: "node12"
-  main: "history-netherlands.js"
